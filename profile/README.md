@@ -6,4 +6,4 @@ Transform your processes and see immediate benefits in **speed** 🚀, **quality
 
 Vist [plyzen.io](https://plyzen.io) for mor information.
 
-👨‍💻👉 Looking for documentation on how to collect data? Follow our Instrumentation Guide! 🛠️
+👨‍💻👉 Looking for documentation on how to collect data? Follow our [Instrumentation Guide](https://github.com/plyzen/plyzen-instrumentation-guide)! 🛠️
